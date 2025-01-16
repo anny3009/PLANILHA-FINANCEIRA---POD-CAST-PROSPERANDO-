@@ -7,11 +7,10 @@ Uma planilha para auxiliar pessoas na oragnização das finanças pessoais e pro
 Meta AI, Excel
 
 ## 🧐 Processo de Criação
-Meta Ai: Consulta so bre o conteúdo
-excel: Criação da planilha
+Meta Ai: Consulta sobre o conteúdo, Excel: Criação da planilha
 
 ## 🚀 Resultados
-Uma planilha finaceira pessoal 
+(https://github.com/anny3009/PLANILHA-FINANCEIRA---POD-CAST-PROSPERANDO-)
 
 ## 💭 Reflexão (Opcional)
 Foram dias de muito aprendizado e insigths para novos projetos.
